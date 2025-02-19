@@ -1,0 +1,21 @@
+Age,Salary,Department,Review,Joining_Date
+25.0,50000.0,HR,Great product! 😊,2023-01-15
+30.0,60000.0,Finance,Worst experience!!!,15-02-2022
+22.0,70000.0,IT,Would buy again.,"March 3, 2021"
+100.0,1000000.0,HR,Not good 😡,2020/07/19
+28.0,55000.0,Finance,Okay.,18-Aug-2019
+,,IT,Amazing!,
+34.0,75000.0,IT,Excellent product.,2017-11-25
+45.0,90000.0,Sales,Poor quality.,2016-06-30
+50.0,65000.0,HR,Fair pricing.,2021-09-10
+23.0,72000.0,IT,Nice deal.,2019-04-05
+,59000.0,,Terrible service.,
+41.0,73000.0,Marketing,Superb.,2018-12-20
+37.0,88000.0,Finance,Meh.,2019-10-11
+26.0,56000.0,IT,Loved it!,2022-05-30
+39.0,,HR,Really bad!,2015-07-21
+48.0,78000.0,Finance,Fantastic experience.,2023-02-14
+21.0,54000.0,IT,Just okay.,2019-03-20
+35.0,,HR,Nothing special.,2021-06-08
+,86000.0,Sales,Very poor service.,
+29.0,60000.0,IT,Average product.,2017-08-25
